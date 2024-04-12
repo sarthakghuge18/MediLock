@@ -25,17 +25,27 @@ public class LabTestActivity extends AppCompatActivity {
             };
 
     private String [] package_Datails = {
-            "Blood glucose fasting\n "+
-                    "complete hemogram\n"+
-                    "HbA1c\n"+
-                    "Iron Studies\n"+
-                    "Kidney function test\n"+
-                    "Liver Function test",
-            "blood Glucose fasting ",
-            "COVID 19 Antibody -IgG",
-            "Thyroid Profile",
-            "Complete HEmogram\n"+
-                    "Lipid Profile"
+            " 1.Blood glucose fasting\n"+
+                    "2.complete hemogram\n"+
+                    "3.HbA1c\n"+
+                    "4.Iron Studies\n"+
+                    "5.Kidney function test\n"+
+                    "6.Liver Function test\n"+
+                    "7.ECG test",
+            "1.blood Glucose fasting\n"+
+            "2.blood sugar test\n"+
+            "3.indicates diabetes",
+            "1.COVID 19 Antibody -IgG\n"+
+            "2.serology testing\n"+
+            "3.blood sample test",
+            "1.Thyroid Profile\n"+
+            "2.T3 test\n"+
+            "3.T4 test\n"+
+            "4.TSH test",
+            "1.Complete Hemogram\n"+
+                    "2.Lipid Profile\n"+
+                    "3.immunoglobulin level\n"+
+                    "4.white blood cells"
 
     };
 
